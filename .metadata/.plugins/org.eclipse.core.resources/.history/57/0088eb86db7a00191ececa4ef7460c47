@@ -1,0 +1,14 @@
+package com.myCompany.cdi.web;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class HelloWorldServletTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

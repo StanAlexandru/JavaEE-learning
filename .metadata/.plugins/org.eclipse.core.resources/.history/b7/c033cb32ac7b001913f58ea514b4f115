@@ -1,0 +1,5 @@
+package com.mycompany.jms.client;
+
+public class SimpleConsumerClient {
+
+}

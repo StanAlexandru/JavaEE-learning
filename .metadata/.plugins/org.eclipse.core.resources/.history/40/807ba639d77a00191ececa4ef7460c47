@@ -1,0 +1,38 @@
+package com.myCompany.cdi.web;
+
+import java.io.IOException;
+
+import javax.inject.Inject;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.myCompany.cdi.qualifier.EnglishMessage;
+import com.myCompany.cdi.service.HelloService;
+
+/**
+ * Servlet implementation class HelloWorldServlet
+ */
+@WebServlet("/HelloWorldServlet")
+public class HelloWorldServlet extends HttpServlet {
+	
+	private static final long serialVersionUID = 1L;   
+	
+	@Inject
+	@EnglishMessage
+	private HelloService helloService_en;
+	
+	@Inject
+	@EnglishMessage
+	private HelloService helloService_fr;
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		response.getWriter().append("Served at: ").append(request.getContextPath());
+		
+		response.getWriter().append("HelloWorldServlet: helloService.sayHello: " + helloService.sayHello());
+	}
+
+}

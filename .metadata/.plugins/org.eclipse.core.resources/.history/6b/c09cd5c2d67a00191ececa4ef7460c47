@@ -1,0 +1,13 @@
+package com.myCompany.cdi.service;
+
+import javax.enterprise.context.RequestScoped;
+
+@RequestScoped
+public class EnHelloMessage implements HelloService{
+
+	@Override
+	public String sayHello() {
+		return "Hello in English!";
+	}
+
+}

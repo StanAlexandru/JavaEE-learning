@@ -1,0 +1,21 @@
+1558354837123	Delete element
+1558354852622	Delete element
+1558356038359	Copy compilation unit
+1558356060053	Rename type 'MyMessageProducer'
+1558356104034	Copy compilation unit
+1558356112208	Copy compilation unit
+1558356128243	Rename type 'MyMessageConsumer'
+1558356145329	Rename type 'MyMessageProducer'
+1558356159295	Rename type 'MyMessageServlet'
+1558356590794	Delete elements
+1558358026291	Extract local variable 'messageParameter'
+1558360113703	Rename type 'MyConsumerServlet'
+1558360120459	Rename type 'MyProducerServlet'
+1558360173987	Delete element
+1558360236381	Delete element
+1558442106115	Copy compilation unit
+1558442114427	Delete element
+1558442172035	Rename type 'MyMDB'
+1558442225164	Copy compilation unit
+1558442677814	Copy compilation unit
+1558442701442	Copy compilation unit

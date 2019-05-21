@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="com.myCompany.jaxws.GreeterService"/>
+<fullyQualifiedTypeName name="com.myCompany.jaxws.GreeterServiceLocator"/>
+<fullyQualifiedTypeName name="com.myCompany.jaxws.GreeterProxy"/>
+<fullyQualifiedTypeName name="com.myCompany.jaxws.model.Person"/>
+<fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+<fullyQualifiedTypeName name="javax.jws.WebService"/>
+<fullyQualifiedTypeName name="javax.jws.WebParam"/>
+<fullyQualifiedTypeName name="javax.ejb.Local"/>
+<fullyQualifiedTypeName name="javax.ejb.Remote"/>
+<fullyQualifiedTypeName name="com.myCompany.cdi.service.HelloService"/>
+<fullyQualifiedTypeName name="com.myCompany.cdi.qualifier.EnglishMessage"/>
+<fullyQualifiedTypeName name="com.myCompany.cdi.service.teams.FootballTeamService"/>
+<fullyQualifiedTypeName name="javax.jms.JMSContext"/>
+<fullyQualifiedTypeName name="javax.annotation.Resource"/>
+<fullyQualifiedTypeName name="com.mycompany.jms.producers.MyMessageProducer"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="javax.inject.Inject"/>
+<fullyQualifiedTypeName name="com.mycompany.jms.consumers.MyMessageConsumer"/>
+<fullyQualifiedTypeName name="com.sun.mail.iap.Response"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="javax.jms.JMSDestinationDefinitions"/>
+<fullyQualifiedTypeName name="javax.jms.JMSDestinationDefinition"/>
+<fullyQualifiedTypeName name="javax.jms.JMSConnectionFactory"/>
+<fullyQualifiedTypeName name="javax.jms.Queue"/>
+<fullyQualifiedTypeName name="javax.enterprise.context.RequestScoped"/>
+<fullyQualifiedTypeName name="com.mycompany.jms.mymessage.MyMessageConsumer"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.util.Optional"/>
+</qualifiedTypeNameHistroy>

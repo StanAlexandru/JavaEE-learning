@@ -1,0 +1,5 @@
+package com.mycompany.jms.mymessage;
+
+public class MyMessageConsumer {
+
+}

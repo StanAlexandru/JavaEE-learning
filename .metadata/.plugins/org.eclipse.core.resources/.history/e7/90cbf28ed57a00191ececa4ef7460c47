@@ -1,0 +1,10 @@
+package com.myCompany.cdi.service;
+
+public class EnHelloMessage implements HelloService{
+
+	@Override
+	public String sayHello() {
+		return "Hello in English!";
+	}
+
+}

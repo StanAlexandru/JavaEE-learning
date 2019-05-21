@@ -1,0 +1,5 @@
+package com.myCompany.ejb.service;
+
+public class CalculatorService {
+
+}

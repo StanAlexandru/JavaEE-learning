@@ -1,0 +1,5 @@
+package com.myCompany.cdi.service;
+
+public class EnHelloMessage implements helloMessage{
+
+}

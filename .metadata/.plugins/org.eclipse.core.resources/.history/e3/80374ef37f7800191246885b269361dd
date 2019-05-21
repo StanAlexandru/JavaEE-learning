@@ -1,0 +1,9 @@
+package com.myCompany.ejb.service;
+
+import java.io.OutputStream;
+
+public interface HomeBeanLocal {
+	
+	public OutputStream getPersonAsOutput();
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\JavaEE-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2969976643.index
+\YL_JavaEE7_JMS\src\main\java
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\JavaEE-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1365058056.index
+\jms\src\main\resources
+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\JavaEE-learning-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\638789107.index
+\YL_JavaEE7_JMS

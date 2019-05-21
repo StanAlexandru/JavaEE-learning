@@ -1,0 +1,11 @@
+package com.myCompany.cdi.service;
+
+public class ROTeamService implements FootballTeamService {
+
+	@Override
+	public String getFootballTeam() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

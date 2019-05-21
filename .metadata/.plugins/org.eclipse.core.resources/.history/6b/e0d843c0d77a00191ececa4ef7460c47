@@ -1,0 +1,13 @@
+package com.myCompany.cdi.service;
+
+import com.myCompany.cdi.qualifier.FrenchMessage;
+
+@FrenchMessage
+public class FrHelloMessage implements HelloService {
+
+	@Override
+	public String sayHello() {
+		return "Bonjour le Monde!!!";
+	}
+
+}

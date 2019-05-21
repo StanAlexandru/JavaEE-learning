@@ -1,0 +1,5 @@
+package com.myCompany.cdi.qualifier;
+
+public interface EnglishMessage {
+
+}

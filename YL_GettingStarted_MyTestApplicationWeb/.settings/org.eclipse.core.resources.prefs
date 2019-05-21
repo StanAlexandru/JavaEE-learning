@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/com/myCompany/jaxws/Greeter.java=UTF-8
+encoding//src/com/myCompany/jaxws/GreeterPortBindingStub.java=UTF-8
+encoding//src/com/myCompany/jaxws/GreeterService.java=UTF-8
+encoding//src/com/myCompany/jaxws/GreeterServiceLocator.java=UTF-8

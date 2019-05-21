@@ -1,0 +1,10 @@
+package com.myCompany.cdi.service;
+
+public class FRHelloMessage implements HelloService {
+
+	@Override
+	public String sayHello() {
+		return "Bonjour le Monde!!!";
+	}
+
+}

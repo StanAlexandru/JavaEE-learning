@@ -1,0 +1,25 @@
+package com.mycompany.jms.client;
+
+import javax.jms.Connection;
+import javax.jms.ConnectionFactory;
+import javax.naming.Context;
+import javax.naming.InitialContext;
+
+public class SimpleConsumerClient {
+	
+	public void receiveMessage() {
+		
+		try {
+			Context jndiContext = new InitialContext();
+			ConnectionFactory connectionFactory = 
+					(ConnectionFactory)jndiContext.lookup("jms/__defaultConnectionFactory");
+			Connection connection = connectionFactory.createConnection();
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+
+}

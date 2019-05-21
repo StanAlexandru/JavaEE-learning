@@ -1,0 +1,17 @@
+package com.myCompany.cdi.service;
+
+import javax.enterprise.context.RequestScoped;
+import javax.enterprise.inject.Alternative;
+
+import com.myCompany.cdi.service.FootballTeamService;
+
+@Alternative
+@RequestScoped
+public class BRTeamService implements FootballTeamService {
+
+	@Override
+	public String getFootballTeam() {
+		return "ROMANIA";
+	}
+
+}

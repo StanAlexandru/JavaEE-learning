@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="YL_JAXWS">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="YL_GettingStarted_MyTestApplicationWeb.war" deploy-path="/" handle="module:/resource/YL_GettingStarted_MyTestApplicationWeb/YL_GettingStarted_MyTestApplicationWeb">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="YL_GettingStarted_MyTestApplicationEJB.jar" deploy-path="/" handle="module:/resource/YL_GettingStarted_MyTestApplicationEJB/YL_GettingStarted_MyTestApplicationEJB">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

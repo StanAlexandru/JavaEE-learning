@@ -1,0 +1,7 @@
+package com.myCompany.cdi.service;
+
+public interface FootballTeamService {
+	
+	String getFootballTeam();
+
+}

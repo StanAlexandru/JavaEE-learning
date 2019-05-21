@@ -1,0 +1,10 @@
+package com.myCompany.ejb;
+
+import java.io.OutputStream;
+
+@Remote
+public interface HomeBeanRemote {
+	
+	public OutputStream getPersonAsOutput();
+
+}

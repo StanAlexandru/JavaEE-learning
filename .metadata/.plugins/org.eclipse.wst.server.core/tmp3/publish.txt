@@ -1,0 +1,6 @@
+#GlassFish 3
+#Tue May 21 15:45:37 EEST 2019
+org.eclipse.jst.jee.server\:YL_GettingStarted_MyTestApplication=C\:\\Users\\AlexandruStan\\Desktop\\Software\\glassfish-4.1.2\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\YL_GettingStarted_MyTestApplication
+org.eclipse.jst.jee.server\:YL_JavaEE7_CDI=C\:\\Users\\AlexandruStan\\Desktop\\Software\\glassfish-4.1.2\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\YL_JavaEE7_CDI
+org.eclipse.jst.jee.server\:YL_JavaEE7_JMS=C\:\\Users\\AlexandruStan\\Desktop\\Software\\glassfish-4.1.2\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\YL_JavaEE7_JMS
+org.eclipse.jst.jee.server\:YL_JavaEE7_JAX-WS=C\:\\Users\\AlexandruStan\\Desktop\\Software\\glassfish-4.1.2\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\YL_JavaEE7_JAX-WS

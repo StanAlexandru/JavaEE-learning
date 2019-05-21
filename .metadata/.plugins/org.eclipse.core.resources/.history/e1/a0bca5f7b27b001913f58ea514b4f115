@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+/**
+ * @author AlexandruStan
+ *
+ */
+module YL_JavaSE_JMS {
+	requires java.naming;
+	javax.jms automatic;
+	requires java.base mandated;
+	contains javax.jms;
+}

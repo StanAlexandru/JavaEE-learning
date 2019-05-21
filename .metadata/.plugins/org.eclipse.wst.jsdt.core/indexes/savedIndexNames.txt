@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+C:\Users\AlexandruStan\Desktop\Development\eclipse-workspace\JavaEE-learning-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3372321773.index
+2997820848.index
+1626148400.index
+1224759633.index
+2198113199.index
+2061292455.index
+167217250.index
+4100947928.index
+1785798893.index

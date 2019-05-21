@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.myCompany.soap&apos; to &apos;com.myCompany.jaxws&apos;&#x0D;&#x0A;- Original project: &apos;YL_JAX-WS&apos;&#x0D;&#x0A;- Original element: &apos;YL_JAX-WS/src/com.myCompany.soap&apos;&#x0D;&#x0A;- Renamed element: &apos;YL_JAX-WS/src/com.myCompany.jaxws&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.myCompany.soap&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.myCompany.soap" name="com.myCompany.jaxws" qualified="false" references="true" stamp="1556798882949" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+package com.myCompany.cdi.service;
+
+public class FRHelloMessage implements HelloService {
+
+	@Override
+	public String sayHello() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
