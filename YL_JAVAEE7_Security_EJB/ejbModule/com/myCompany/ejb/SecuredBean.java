@@ -1,5 +1,6 @@
 package com.myCompany.ejb;
 
+import javax.annotation.security.RolesAllowed;
 import javax.ejb.Stateless;
 
 import com.mycompany.remote.SecuredBeanRemote;
@@ -20,6 +21,8 @@ public class SecuredBean implements SecuredBeanRemote {
 	/**
      * @see SecuredBeanRemote#doSecureTask()
      */
+    @Override
+    @RolesAllowed("MANAGER")//javax.ejb.EJBAccessException
     public void doSecureTask() {
         System.out.println("SecuredBean.doSecureTask() was called!");
     }
